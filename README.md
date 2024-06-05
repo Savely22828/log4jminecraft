@@ -1,8 +1,7 @@
 #ДАННЫЙ РЕПОЗИТОРИЙ ЯВЛЯЕТСЯ ФОРКОМ ДРУГОГО РЕПОЗИТОРИЯ!
 #THIS REPOSITORY IS A FORK OF ANOTHER REPOSITORY!
 # log4jminecraft
-#EN/ENG
-This code *DOES NOT* promote or encourage any illegal activities!
+EN/ENG: This code *DOES NOT* promote or encourage any illegal activities!
 The content in this document is provided solely for educational purposes and to create awareness!
 
 Watch a video showing the process here: https://youtu.be/efnluUK_w_U
@@ -14,8 +13,7 @@ To run this project follow the following steps:
 ```git clone https://github.com/davidbombal/log4jminecraft.git```
 3. Run the script log4j.py (```python3 log4j.py <ip_address>``` i.e. ```python3 log4j.py 192.168.1.132```). This installs the prerequisite software, and also starts up the LDAP server.
 4. Run the script jcomp_pyserv.py (```python3 jcomp_pyserv.py```). This compiles the Java payload to be ran, and also starts a python3 http.server. 
-#RU/RU
-Этот код и репозиторий *НЕ* пропагандирует и не поощряет незаконную деятельность!
+#RU/RU: Этот код и репозиторий *НЕ* пропагандирует и не поощряет незаконную деятельность!
 Содержимое этого документа предоставлено исключительно в образовательных целях и для повышения осведомленности!
 
 Посмотрите видео, показывающее процесс здесь: https://youtu.be/efnluUK_w_U
